@@ -11,10 +11,14 @@
             "id": "b9f3956c844abcc8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Python 04  - Cadenas y lecturapor teclao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python 04  - Cadenas y lecturapor teclao"
             }
           },
           {
@@ -197,9 +201,11 @@
   },
   "active": "b9f3956c844abcc8",
   "lastOpenFiles": [
+    "Pasted image 20260928083253.png",
+    "Python 03 - Tipos de datos.md",
+    "Python 04  - Cadenas y lecturapor teclao.md",
     "Python 01-02 - Introducción y entorno.md",
     "Python 01-02 - Introducción y entorno.md",
-    "Python 00 - índice.md",
-    "Python 03 - Tipos de datos.md"
+    "Python 00 - índice.md"
   ]
 }
