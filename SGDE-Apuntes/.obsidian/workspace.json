@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Python 01-02 - Introducción y entorno.md",
+=======
+                "file": "Python 04  - Cadenas y lecturapor teclao.md",
+>>>>>>> a27e135626d012ffc99059fbf7973d41de74df20
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Python 01-02 - Introducción y entorno"
+=======
+              "title": "Python 04  - Cadenas y lecturapor teclao"
+>>>>>>> a27e135626d012ffc99059fbf7973d41de74df20
             }
           },
           {
@@ -201,9 +209,18 @@
   },
   "active": "b9f3956c844abcc8",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Python 00 - índice.md",
     "Python 01-02 - Introducción y entorno.md",
     "Python 01-02 - Introducción y entorno.md",
     "Python 03 - Tipos de datos.md"
+=======
+    "Pasted image 20260928083253.png",
+    "Python 03 - Tipos de datos.md",
+    "Python 04  - Cadenas y lecturapor teclao.md",
+    "Python 01-02 - Introducción y entorno.md",
+    "Python 01-02 - Introducción y entorno.md",
+    "Python 00 - índice.md"
+>>>>>>> a27e135626d012ffc99059fbf7973d41de74df20
   ]
 }
