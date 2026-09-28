@@ -11,10 +11,14 @@
             "id": "b9f3956c844abcc8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Python 01-02 - Introducción y entorno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python 01-02 - Introducción y entorno"
             }
           },
           {
@@ -197,9 +201,9 @@
   },
   "active": "b9f3956c844abcc8",
   "lastOpenFiles": [
-    "Python 01-02 - Introducción y entorno.md",
-    "Python 01-02 - Introducción y entorno.md",
     "Python 00 - índice.md",
+    "Python 01-02 - Introducción y entorno.md",
+    "Python 01-02 - Introducción y entorno.md",
     "Python 03 - Tipos de datos.md"
   ]
 }

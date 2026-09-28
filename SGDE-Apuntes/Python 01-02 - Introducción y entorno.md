@@ -16,8 +16,6 @@ Aprende Python (S. Delgado Quintero, 2023), caps. 1-2, pp. 3-46
 
 # Introducción y entorno de desarrollo
 
-> [!info] Nota Tus apuntes no cubrían estos capítulos, así que **todo lo de esta nota es 🆕 añadido**, resumido de lo esencial. Si ya tienes apuntes de esta parte en otro sitio, dímelo y los fusiono.
-
 Índice: [[Python 00 - Índice]] · Siguiente: [[Python 03 - Tipos de datos]]
 
 ---
