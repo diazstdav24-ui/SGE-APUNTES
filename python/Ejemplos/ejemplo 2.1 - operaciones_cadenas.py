@@ -89,3 +89,58 @@ print(proverb.replace('suena', 'lleva'))
 
 proverb.replace('mal','bien',1) #sólo1reemplazo
 
+# ---------- Identificando caracteres ----------
+# Todos devuelven True/False y comprueban TODOS los caracteres de la cadena
+
+print('R2D2'.isalnum())    
+print('C3-PO'.isalnum())     
+
+print('314'.isnumeric())     
+print('3.14'.isnumeric())    
+print('abc'.isalpha())       
+print('a-b-c'.isalpha())   
+
+print('BIG'.isupper())         
+print('small'.islower())       
+print('First Heading'.istitle()) 
+# ---------- Interpolación con f-strings ----------
+name = 'Elon Musk'
+age = 49
+fortune = 43_300
+print(f'Me llamo {name}, tengo {age} años y una fortuna de {fortune} millones')
+
+# Para escribir llaves literales hay que duplicarlas
+x = 10
+print(f'The variable is {{ x = {x} }}')
+
+# Formato de enteros
+mount_height = 3718
+print(f'{mount_height:10d}')    
+print(f'{mount_height:010d}')    
+# Otras bases
+value = 0b10010011
+print(f'{value}')               
+print(f'{value:b}')              
+
+# Formato de flotantes
+pi = 3.14159265
+print(f'{pi:f}')                
+print(f'{pi:.3f}')               
+print(f'{pi:7.2f}')               
+print(f'{pi:07.2f}')           
+print(f'{pi:e}')                
+# Alineación
+text1, text2, text3 = 'how', 'are', 'you'
+print(f'{text1:<7s}|{text2:^11s}|{text3:>7s}')     
+print(f'{text1:-<7s}|{text2:·^11s}|{text3:->7s}')  
+
+# Modo debug (Python 3.8+): muestra nombre = valor
+serie = 'The Simpsons'
+imdb_rating = 8.7
+print(f'{serie=}')
+print(f'{imdb_rating=}')
+
+# Modo representación: !r muestra el objeto tal como se almacena (con comillas)
+name = 'Steven Spielberg'
+print(f'{name!r}')
+
