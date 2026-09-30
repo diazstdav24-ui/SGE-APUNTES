@@ -14,3 +14,6 @@ msg = 'a\tb\tc'
 print(msg)
 
 print("á")
+
+#Python es mas desordenado que java, no importa declarar las variables por ahi en medio
+#Pero es mas facil declarar las variables arriba, si hay alguna variable por medio no pasa nada 

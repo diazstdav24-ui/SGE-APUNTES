@@ -135,7 +135,7 @@ print(f'{text1:<7s}|{text2:^11s}|{text3:>7s}')
 print(f'{text1:-<7s}|{text2:·^11s}|{text3:->7s}')  
 
 # Modo debug (Python 3.8+): muestra nombre = valor
-serie = 'The Simpsons'
+serie = 'The Simpsons'   
 imdb_rating = 8.7
 print(f'{serie=}')
 print(f'{imdb_rating=}')
@@ -143,4 +143,23 @@ print(f'{imdb_rating=}')
 # Modo representación: !r muestra el objeto tal como se almacena (con comillas)
 name = 'Steven Spielberg'
 print(f'{name!r}')
+
+
+
+#Ejemplos print f 
+
+nombre = 'David'
+edad = 21
+num_telef = '697386581'
+
+calle = 'Avenida Santa Cecilia 11'
+barrio = 'Triana'
+ciudad = 'Sevilla'
+
+notaMedia = 9.2243
+
+print(f"Hola me llamo David Díaz Stoica, tengo {edad} y actualmente curso el grado superior de DAM. ")
+print(f"Mi nota media es de: {notaMedia:2}, en el colegio los Salesianos de {barrio}, {ciudad} ")
+print(f"Tengo mucha suerte porque mi piso está muy cerquita del colegio, en la calle de al lado: {calle}")
+print(f"Si quieres contactarme aqui tiene mi número telefonico : {num_telef}")
 
