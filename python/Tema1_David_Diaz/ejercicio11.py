@@ -6,4 +6,4 @@ while numeros[0] != suma:
     
     suma += input("Siguiente numero")
 
-print(f"la suma es igual que el primer número: " numeros[1])
+print(f"la suma es igual que el primer número: {numeros[0]}")
