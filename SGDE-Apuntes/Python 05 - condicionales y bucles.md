@@ -106,4 +106,6 @@ step) :
 • stop: es obligatorio (siempre se llega a 1 menos que este valor).
 • step: es opcional y tiene valor por defecto 1.
 
+Si no colocas nada por defecto es nulo
+
 \_: Significa que ni si quiere tiene que usar la variable
